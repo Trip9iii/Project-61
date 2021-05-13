@@ -1,0 +1,94 @@
+body{
+text-align:left;
+background: rgb(80,201,31);
+background: linear-gradient(90deg, rgba(80,201,31,1) 0%, rgba(31,189,201,1) 44%);
+}
+img{
+height:400px;
+width:400px;
+}
+p{
+font-size:25px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'New Tegomin', serif;
+  
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  color: Black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+.Menu{
+display: block;
+color: black;
+}
+h1{
+text-align: left;
+font-family: 'New Tegomin', serif;
+font-size: 30px;
+}
+.class1{
+background: black;
+height: 6px;
+width:70px;
+margin-left: 0px;
+left: 0px
+}
+#section1{
+font-family: 'New Tegomin', serif;
+}
+#section2{
+font-family: 'New Tegomin', serif;
+}
+#section3{
+font-family: 'New Tegomin', serif;
+}
+#section4{
+font-family: 'New Tegomin', serif;
+}
+#section5{
+font-family: 'New Tegomin', serif;
+}
+h3{
+text-align: center;
+}
+html{
+scroll-behavior: smooth;
+}
+a {
+color: dodgerblue;
+    text-decoration: none;}
+.links:hover{
+color: dodgerblue;
+text-decoration: underline;
+font-size:25px;}
+img{
+transition: transform .2s;
+border: 10px solid #000000;
+}
+img:hover{
+transform: scale(0.9);
+}
+span{
+text-align: center;
+}
+a href{
+text-align: center;
+}
+#section5 a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: cornflowerblue !important;
+    text-align: center;}
